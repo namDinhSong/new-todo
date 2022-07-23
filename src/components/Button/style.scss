@@ -2,7 +2,7 @@
     button {
         height: 30px;
         color: #fff;
-        border-radius: 0 10px 10px 0;
+        // border-radius: 0 10px 10px 0;
         background-color: black;
 
         &:hover {
@@ -10,7 +10,6 @@
             transform: scale(1.1);
             transition: 0.8s;
             background-color: rgba(0, 0, 0, 0.5);
-            // outline: none;
             border: none;
         }
     }
