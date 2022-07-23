@@ -1,9 +1,8 @@
-import './App.css';
-import TaskList from './components/taskList';
+import TodoApp from './components/TodoApp';
 function App() {
   return (
     <div>
-     <TaskList/>
+     <TodoApp/>
     </div>
   );
 }
